@@ -8,6 +8,5 @@
 - 🔭 I’m currently working on SchoolManager project
 - 🌱 I’m currently learning dotnet Orlean, TypeScript, Dart, Flutter
 - 👯 I’m looking to collaborate on exciting dotnet-based projects
-- 💬 Ask me about ...
 - 📫 How to reach me: mail me at ienoverse@gmail.com
-- ⚡ Fun fact: 👀👀
+- ⚡ Fun fact: My greatest hobby is to.... learn!! 👀
