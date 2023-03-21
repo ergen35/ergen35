@@ -1,7 +1,6 @@
-[![Eric Hotegni GitHub Stats](https://github-readme-stats.vercel.app/api?username=averymkv3)](https://github.com/averymkv3/github-readme-stats)
+[![Eric Hotegni GitHub Stats](https://github-readme-stats.vercel.app/api?username=averymkv3&count_private=true)](https://github.com/averymkv3/github-readme-stats)
 
-
-##About Me ?
+# About Me ?
 - 🔭 I’m currently working on SchoolManager project
 - 🌱 I’m currently learning dotnet Orlean, TypeScript, Dart, Flutter
 - 👯 I’m looking to collaborate on exciting dotnet-based projects
