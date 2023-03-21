@@ -1,4 +1,4 @@
-[![Eric Hotegni GitHub Stats](https://github-readme-stats.vercel.app/api?username=averymkv3&count_private=true&show_icons=true&theme=merko)](https://github.com/averymkv3/github-readme-stats)
+[![Eric Hotegni GitHub Stats](https://github-readme-stats.vercel.app/api?username=averymkv3&count_private=true&show_icons=true&theme=default&include_all_commits=true&custom_title=My Stats)](https://github.com/averymkv3/github-readme-stats)
 
 # About Me ?
 - 🔭 I’m currently working on SchoolManager project
