@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=averymkv3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills ⚡
-[![My Skills](https://skills.thijs.gg/icons?i=cs,js,dotnet,nodejs,css,html,ts,mysql,svelte,dart,sqlite,java,mongodb,python,github,actions,docker,git])](https://skills.thijs.gg) 
+[![My Skills](https://skills.thijs.gg/icons?i=cs,js,dotnet,nodejs,css,html,bs,ts,mysql,svelte,dart,sqlite,java,mongodb,python,github,vs,docker,git])](https://skills.thijs.gg) 
 
 # About Me ? | A Propos de Moi
 - 🔭 I’m currently working on SchoolManager project
