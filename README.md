@@ -1,6 +1,6 @@
-[![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=immoCockroach&count_private=true&show_icons=true&theme=default&include_all_commits=true)](https://github.com/immoCockroach/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lord-cockroach&count_private=true&show_icons=true&theme=default&include_all_commits=true)](https://github.com/lord-cockroach/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=immoCockroach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lord-cockroach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills ⚡
 [![My Skills](https://skills.thijs.gg/icons?i=cs,js,dotnet,nodejs,css,html,ts,mysql,svelte,dart,sqlite,java,mongodb,python,github,docker,git])](https://skills.thijs.gg) 
