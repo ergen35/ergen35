@@ -1,4 +1,4 @@
-[![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lord-cockroach&count_private=true&show_icons=true&theme=default&include_all_commits=true)](https://github.com/8thblattaria/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=8thblattaria&count_private=true&show_icons=true&theme=default&include_all_commits=true)](https://github.com/8thblattaria/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=8thblattaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
