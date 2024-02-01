@@ -1,6 +1,6 @@
-[![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=8thblattaria&count_private=true&show_icons=true&theme=default&include_all_commits=true)](https://github.com/8thblattaria/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=plague35&count_private=true&show_icons=true&theme=default&include_all_commits=true)](https://github.com/plague35/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=8thblattaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=plague35&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills ⚡
 [![My Skills](https://skills.thijs.gg/icons?i=cs,js,dotnet,nodejs,kotlin,css,html,ts,mysql,svelte,dart,sqlite,java,mongodb,python,github,docker,git])](https://skills.thijs.gg) 
