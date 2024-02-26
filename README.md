@@ -1,4 +1,4 @@
-[![My GitHub Stats](ergen35)](https://github.com/ergen35/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ergen35&count_private=true&show_icons=true&theme=default&include_all_commits=true)](https://github.com/ergen35/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ergen35&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
